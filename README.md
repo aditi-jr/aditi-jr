@@ -4,16 +4,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F772A1&height=200&section=header&text=Hey%20There%20👋%20I'm%20Aditi!&fontSize=40&fontColor=ffffff&fontAlignY=40" alt="banner"/>
 </p>
 
-<h3 align="center">💻 Developer | 🤖 AI Explorer | 🌸 Lifelong Learner</h3>
+<h3 align="center">👾 Developer | 🧘🏻‍♀️ Exploring AI | 🐾 Learning</h3>
 
 ---
 
 ## 🚀 About Me  
 
-- 🎓 Diving deep into **Machine Learning & Deep Learning**  
-- 🧑‍💻 Building projects in **AI, Web Dev, and Data Science**  
+- 🎓 **Exploring tech world with excitement of learning new things**  
+- 🧑‍💻 **Not a great leader but lead some communities and clubs**  
 - 🌱 Learning **React, APIs, TensorFlow, and PyTorch**  
-- 🎨 Debugging with **music 🎧 + coffee ☕**  
+- 🎨 Debugging with **Mid night errors 💤 n coffees**  
 - ✨ Goal: To make **tech human-friendly** 🌍  
 
 ---
@@ -29,8 +29,7 @@
 ## 📂 Featured Projects  
 
 🔹 [**Connectsphere**](https://github.com/aditi-jr/connectsphere) – Connect & collaborate platform  
-🔹 [**Human Scream Detection**](https://github.com/aditi-jr/Human_Scream_Detection_using_ml_and_deep_learning-main) – AI-powered detection system  
-🔹 [**Problematicaditi**](https://github.com/aditi-jr/Problematicaditi) – Playground for ideas & experiments  
+🔹 [**Human Scream Detection**](https://github.com/aditi-jr/Human_Scream_Detection_using_ml_and_deep_learning-main) – AI-powered detection system   
 
 ---
 
@@ -58,11 +57,11 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/?size=512&id=37246&format=png" width="40" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.icons8.com/?size=512&id=437&format=png" width="40" /></a>
+  <a href="mailto:aditijr18@gmail.com"><img src="https://img.icons8.com/?size=512&id=37246&format=png" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aditijr/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" /></a>
+  <a href="https://x.com/aditiijr?t=qGevk4oVVEuIiHH2URFvLw&s=09"><img src="https://img.icons8.com/?size=512&id=437&format=png" width="40" /></a>
 </p>
 
 ---
 
-✨ *"Exploring Creating Learning //Baby Coder :)."* ✨
+✨ *"Exploring Creating Learning // Baby Coder :)."* ✨
